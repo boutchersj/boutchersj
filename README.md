@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boutchersj
 - 👀 I’m interested in parkour, playing music, and going on adventures with my wife!
-- 💞️ I’m creating a Udemy course on on how to get promoted faster at a tech startup
+- 💞️ I’m creating a Udemy course on on how to get promoted faster
 - 📫 LinkedIn DMs or sending me a message on my website are good ways to contact me.
 
 <!---
