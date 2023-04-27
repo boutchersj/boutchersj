@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @boutchersj
-- 👀 I’m interested in parkour, playing music, and going on adventures with my wife!
+- 👋 Hi, I’m Steven Boutcher!
+- 👀 I’m interested in parkour, playing music on my violin, and going on fun adventures with my wife!
 - 💞️ I’m creating a Udemy course on acquiring a 5-start teammate mentality
 - 📫 Contact me on Twitter or LinkedIn if you want to connect!
 
