@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steven Boutcher!
 - 👀 I’m interested in parkour, playing music on my violin, and going on fun adventures with my wife!
-- 💞️ I’m creating a Udemy course on acquiring a 5-start teammate mentality
+- 💞️ I’m creating a Udemy course to help people acquire a 5-start teammate mentality
 - 📫 Contact me on Twitter or LinkedIn if you want to connect!
 
 <!---
