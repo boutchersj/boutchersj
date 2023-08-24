@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Steven Boutcher!
-- 👀 I’m interested in parkour, playing music on my violin, and going on fun adventures with my wife!
-- 💞️ I’m creating a Udemy course to help people acquire a 5-start teammate mentality
-- 📫 Contact me on Twitter or LinkedIn if you want to connect!
+- 👀 I love parkour, playing my violin, and adventuring with my wife & kitty!
+- 🚀 I created a [Udemy course](https://www.udemy.com/course/elevate-your-team/) to help people accelerate their careers
+- 📫 I'm usually on X, so say hi to me on there!
 
 <!---
 boutchersj/boutchersj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
